@@ -1,6 +1,6 @@
 ## Hi there, My name is Khanh, you can call me is BerNard 👋🏼👨🏻‍💻
 
-[![Gmail Badge](https://img.shields.io/badge/-tbkhanh.it2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tbkhanh.it2000@gmail.com "Connect via Email")
+[![Gmail Badge](https://img.shields.io/badge/-tbkhanh.it2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tbkhanh.company@gmail.com "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@Bernard98-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Bernard98 "Contact on Telegram")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/baokhanh0908 "Connect on Facebook")
 
@@ -31,7 +31,7 @@ I have Graduated Student at The University of Science at HCM, VietNam, pursuing 
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-## Deploy
+## Deploy and tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
