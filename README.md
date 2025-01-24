@@ -1,11 +1,11 @@
-## Hi there, I'm BerNardTran 👋🏼👨🏻‍💻
+## Hi there, My name is Khanh, you can call me is BerNard 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-tbkhanh.it2000@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:tbkhanh.it2000@gmail.com "Connect via Email")
 [![Telegram Badge](https://img.shields.io/badge/-@Bernard98-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/Bernard98 "Contact on Telegram")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://m.me/baokhanh0908 "Connect on Facebook")
 
-I am a 4d-year Graduate Student at The University of Science at HCM, VietNam, pursuing a Information Technology
-## Now I want to become FullStack Web developer
+I have Graduated Student at The University of Science at HCM, VietNam, pursuing a Information Technology
+## Now I want to become Full-Stack Web developer
 
 
 ## Frontend
